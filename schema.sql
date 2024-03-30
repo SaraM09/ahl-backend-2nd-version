@@ -1,0 +1,1 @@
+create DATABASE dummy_ahl_db;
